@@ -14,5 +14,4 @@ void biggest3()
     else
         printf("Biggest number is: %d\n", c);
 
-    return 0;
 }
